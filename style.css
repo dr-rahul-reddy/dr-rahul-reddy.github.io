@@ -1,0 +1,38 @@
+/* Overall Zen Style */
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #dee5f2; /* Predominant */
+  color: #858d9e; /* Touches/Accents */
+  line-height: 1.6;
+  margin: 0;
+}
+
+header {
+  background-color: #b2d4b5; /* Secondary */
+  padding: 1rem 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+nav a {
+  color: #858d9e;
+  text-decoration: none;
+  margin: 0 1rem;
+}
+
+section {
+  padding: 2rem;
+  margin: 1rem auto;
+  max-width: 800px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #b2d4b5; /* Secondary */
+}
