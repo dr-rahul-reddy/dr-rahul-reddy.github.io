@@ -3,9 +3,7 @@
 @font-face {
     font-family: 'Rajdhani';
     src: url('Rajdhani-Light.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
+    }
 
 body {
     margin: 0;
