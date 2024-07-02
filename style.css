@@ -1,4 +1,4 @@
-/* style.css */
+/* Existing CSS */
 
 @font-face {
     font-family: 'OCRa1';
@@ -6,6 +6,7 @@
     font-weight: normal;
     font-style: normal;
 }
+
 body {
     margin: 0;
     padding: 0;
@@ -91,4 +92,31 @@ footer {
 
 .resume-section a:hover {
     text-decoration: underline;
+}
+
+/* New CSS for Sidebar */
+
+.sidebar {
+    position: fixed;
+    height: 100%;
+    width: 0;
+    top: 0;
+    left: 0;
+    background-color: #858D9E; /* Same as nav */
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #B2D4B5; /* Same as .resume-section a */
+    display: block;
+    transition: 0.3s;
+}
+
+.sidebar a:hover {
+    color: #f1f1f1;
 }
