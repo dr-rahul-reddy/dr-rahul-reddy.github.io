@@ -120,3 +120,8 @@ footer {
 .sidebar a:hover {
     color: #f1f1f1;
 }
+
+.resized-image {
+    width: 300px; 
+    height: auto;
+}
