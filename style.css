@@ -3,7 +3,7 @@
 body {
     @font-face {
     font-family: 'OCRa1';
-    src: url(./fonts/OCRa1.ttf) 
+    src: url(OCRa1.ttf) 
     margin: 0;
     padding: 0;
     background-color: #dee5f2;
