@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Rajdhani';
-    src: url(./'Rajdhani-Light.ttf') format('truetype');
+    src: url('/'Rajdhani-Light.ttf') format('truetype');
 }
 
 body {
